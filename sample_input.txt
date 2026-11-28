@@ -1,0 +1,7 @@
+
+3 4
+1 0 1
+AND A B
+NOT C NONE
+XOR G1 G2
+OR G3 A
