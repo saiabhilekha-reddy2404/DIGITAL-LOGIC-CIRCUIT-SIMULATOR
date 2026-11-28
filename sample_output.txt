@@ -1,0 +1,12 @@
+
+DIGITAL LOGIC CIRCUIT SIMULATOR
+--------------------------------
+
+CIRCUIT SIMULATION RESULTS
+--------------------------
+G1 Output = 0
+G2 Output = 0
+G3 Output = 0
+G4 Output = 1
+
+Final Circuit Output = 1
